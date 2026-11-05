@@ -88,8 +88,8 @@ While **Feedback Control** offers a lightweight and fast rule-based approach, **
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/siddhanttilekar/itsc-ev.git
-cd itsc-ev
+git clone https://github.com/siddhanttilekar/a2c-rl-emergency-vehicle-prioritization.git
+cd a2c-rl-emergency-vehicle-prioritization
 ```
 
 2. **Install Python dependencies:**
